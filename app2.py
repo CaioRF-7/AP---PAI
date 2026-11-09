@@ -985,7 +985,7 @@ def main():
         layout="wide",
     )
 
-    st.title("🏗️ Sistema de Orçamentação | Mais Engenharia)")
+    st.title("🏗️ Sistema de Orçamentação | Mais Engenharia")
     st.caption(
         "Mais Engenharia & Consultoria — Importação de Orçamentos, Busca Inteligente e Propostas Oficiais em EAP/WBS"
     )
