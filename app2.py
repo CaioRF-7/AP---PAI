@@ -980,12 +980,12 @@ def suggest_next_wbs(records: List[Dict[str, Any]]) -> str:
 # ==============================================================================
 def main():
     st.set_page_config(
-        page_title="Orçamentador SINAPI + SEINFRA | Mais Engenharia",
+        page_title="Orçamentador | Mais Engenharia",
         page_icon="🏗️",
         layout="wide",
     )
 
-    st.title("🏗️ Sistema de Orçamentação Dinâmica (SINAPI-CE + SEINFRA-CE)")
+    st.title("🏗️ Sistema de Orçamentação | Mais Engenharia)")
     st.caption(
         "Mais Engenharia & Consultoria — Importação de Orçamentos, Busca Inteligente e Propostas Oficiais em EAP/WBS"
     )
